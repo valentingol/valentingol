@@ -26,6 +26,8 @@ My curriculum:
 
 - **Deep Learning engineer at [IFP Energies Nouvelles](https://www.ifpenergiesnouvelles.fr/)** 🪨: Underground facies modeling with conditional [self-attention GAN](https://arxiv.org/abs/1805.08318) - *6 months*
 
+- **Computer Vision research engineer at [ONERA The French Aerospace Lab](https://www.onera.fr/fr)** ✈️: Fundamental research on multi-modal few shot object detection. Military applications as part of the KOIOS European project - *now*
+
 I also did a lot of trainings for CentraleSupelec's AI organization [*Automatant*](https://automatants.cs-campus.fr/) about both theory and practical application. Some of these trainings are available (in french) in the [Automatant website](https://automatants.cs-campus.fr/formations?v=Les+Formations).
 
 ---
@@ -36,18 +38,17 @@ Python's PEP20 introduces the [Zen of Python](https://peps.python.org/pep-0020/)
 
 ```script
 Linux is far better than Windows for coding purposes.
-VS Code is more flexible than Pycharm. It exists other code editor?
+VSCode is more flexible than Pycharm. It exists other code editor?
 Virtualenv and conda have their own advantages...
-But Virtualenv plus VirtualenvWrapper are really better than Conda.
+But Virtualenv plus VirtualenvWrapper are really more convenient than Conda.
 Pytorch is better than Tensorflow.
 When you can use Jax, you should really consider using it.
-Haiku over Flax over all the other.
-Github is more convenient than Gitlab, except if you are a company.
-Weights and Biases and ClearML are very cool. Tensorboard not.
+Haiku over Flax over all the other nn Jax libs.
+Weights and Biases and ClearML are very cool. Tensorboard for sensitive cases only.
 Use many linters in real time when coding to write properly.
-Unit and global tests help you to govern the world.
+Local and global tests help you to govern the world.
 Github Copilot too.
-Self-attention mechanism is a revolutionary idea.
+Self and cross-attention mechanism are revolutionary ideas.
 Always look for existing implementations instead of reinventing the wheel.
 In return, contribute to open source to thank the community.
 ```
